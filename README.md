@@ -11,7 +11,7 @@ During the race the player can decide to flip a hidden card which will set an Ac
 
 # Installation
 Python Curses library comes with the Python standard library but for windows users you will need to install it using <br/>
-`python -m pip install windows-curses`
+`python -m pip install windows-curses` or  `pip install -r requirements.txt`
 
 ### Instructions
 - Check your balance and get racing by clicking Play
