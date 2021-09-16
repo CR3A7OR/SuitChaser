@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 #  - Download more projects at: https://github.com/CR3A7OR - #
