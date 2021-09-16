@@ -51,7 +51,7 @@ have 100 which can be found in balance.txt. Standard
 fraction betting rules apply and you only lose how 
 much you put in when you bet."""
 
-# ------ Variables-----#
+# ---------------------#
 
 
 # ------ MAIN FUNCTIONS -----#
@@ -240,7 +240,7 @@ def flip(card, fc, heart, diamond, spade, club, grid):
 
     return heart, diamond, spade, club
 
-# ------ MAIN FUNCTIONS -----#
+# ---------------------------#
 
 
 class Card:
@@ -488,6 +488,6 @@ def main(stdscr):
                 
         print_menu(stdscr, current_row)
 
-# ------ MAIN GAME LOGIC-----#
+# ---------------------------#
 
 curses.wrapper(main)
