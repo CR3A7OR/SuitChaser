@@ -22,3 +22,7 @@ Python Curses library comes with the Python standard library but for windows use
 
 ### Preview of the Game
 ![Demo CountPages alpha](gameplay.gif)
+
+<div align="center">
+--- [ 𝗖𝗥𝟯𝗔𝗧𝟬𝗥 ] // Designed By --- 
+</div>
